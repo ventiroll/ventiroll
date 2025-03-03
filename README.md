@@ -1,9 +1,9 @@
 
-Helloooo!!!!!!!!!!!!!! - 👋 Hi, I’m @ventiroll
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Helloooo!!!!!!!!!!!!!! - 👋 Hi, I’m Mandy @ventiroll
+- 👀 I’m interested in software engineering, system internals, game programming, and more!
+- 🌱 I’m currently learning assembly!
+- 💞️ I’m looking to collaborate on any projects!
+- 📫 How to reach me via email!
 
 <!---
 ventiroll/ventiroll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
